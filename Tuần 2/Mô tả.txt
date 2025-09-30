@@ -1,0 +1,1 @@
+Sử dụng kiến thức được học ở tuần 2 kết hợp trợ giúp từ AI, qua đó nắm rõ hơn cách sử dụng các thẻ trong HTML, cách tạo ra trang HTML chuẩn semantic  
